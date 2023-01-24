@@ -1,8 +1,5 @@
 
-ливагк бкытидеккгс:236006
-амдяеас сталос:236216
 
-йыдийас INSERT басгс дедолемым
 
 
 
@@ -94,16 +91,16 @@ INSERT INTO extHD VALUES('54489','SATA1','NO'),
 
 INSERT INTO HDD VALUES('TOYOTA','SATA3','256 MB',500.58);
 
-INSERT INTO CUSTOMER VALUES(1,'GIANNIS','giannis007@gmail.com','ANAGIANNIS',NULL),
+INSERT INTO CUSTOMER VALUES(1,'GIANNIS','giannis007@gmail.com','ANAFRAGOULIS',NULL),
 (2,'ANNA','annapoledancer@gmail.com','KARRA',NULL),
 (3,'VIVI','audilover@gmail.com','TZOUTZOUKA',NULL),
-(4,'GIWRGOS','diamond@gmail.com','TSIAMBERT',NULL),
+(4,'GIWRGOS','diamond@gmail.com','TSIGKOS',NULL),
 (5,'DIONISIS','nionios@gmail.com','KAROTOS',NULL),
 (6,'GIANNIS','smurfreport@gmail.com','ATHINEOS',NULL),
-(7,'REGINA','rega@gmail.com','POULOPOULOU',NULL),
-(8,'SPIRIDOULA','pipi@gmail.com','GAITANOY',NULL),
+(7,'REGINA','rega@gmail.com','PAVLOV',NULL),
+(8,'SPIRIDOULA','pipi@gmail.com','VASILAKI',NULL),
 (9,'TAKIS','gate7@gmail.com','TSOYKALAS',NULL),
-(10,'NIKOS','papanick7@gmail.com','PAPANIKOLAOY',NULL);
+(10,'NIKOS','papa7@gmail.com','PAPALOUKAS',NULL);
 
 
 INSERT INTO customer_telephones VALUES(1,6987412348),
@@ -144,10 +141,10 @@ INSERT INTO ADMINISTRATORS VALUES(1,'Junior','MPAMPIS','MPOUZOUKIS','CEID','BOUZ
 (2,'Senior','KOSTAS','MITOGLOU','CEID PHD','KON1@gmail.com',1,2),
 (3,'Junior','MIXALI','KARANISAS','INFORMATICS AT UNIVERSITY OF MUNICH','MIKE45@gmail.com',NULL,3),
 (4,'Senior','MARISILNTA','SOULI','CEID PHD','marsi17@gmail.com',3,4),
-(5,'Junior','ANTREAS','STAMOU','CEID','ASTAMOS@gmail.com',NULL,5),
+(5,'Junior','ANTREAS','STAMOS','CEID','ASTAMOS@gmail.com',NULL,5),
 (6,'Senior','KOSTAS','STAMOU','CEID PHD','KONSTAM@gmail.com',5,6),
-(7,'Junior','KIRIAKOS','GIANNATOS','CEID','KIRIAK56@gmail.com',NULL,7),
-(8,'Junior','AKIS','PETRETZIKIS','CEID','AKIS231@gmail.com',NULL,8),
+(7,'Junior','KIRIAKOS','GATOULIS','CEID','KIRIAK56@gmail.com',NULL,7),
+(8,'Junior','AKIS','PETROLAS','CEID','AKIS231@gmail.com',NULL,8),
 (9,'Senior','MPAMPIS','TSIBOUKIS','CEID PHD','TSIBOUK@gmail.com',8,9),
 (10,'Junior','GIWRGOS','GEWRGIOU','CEID','GEORGIOU@gmail.com',NULL,10);
 
