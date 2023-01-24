@@ -148,7 +148,7 @@ VALUES (NULL,"eirini","gasteratou","female","AH-56789","Agias sofias",12,"athina
        (NULL,"giwrgos","nikolopoulos","male","AH-2367","KapoustoDiminio",46,"Diminio",20600,6978);
 
 INSERT INTO `telephones`
-VALUES (1,6949874777),
+VALUES (1,6949234333),
        (2,6949874569);
 
 INSERT INTO `kliniki`
